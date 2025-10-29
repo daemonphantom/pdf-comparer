@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "old_slide_count": 15,
+    "new_slide_count": 16,
+    "similarity_threshold": 0.55,
+    "aligned_pairs": 14,
+    "splits": 0,
+    "merges": 0,
+    "insertions": 2,
+    "deletions": 1
+  },
+  "total_slides_analyzed": 17,
+  "slides_with_content_changes": 4,
+  "detailed_changes": [
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 0,
+      "new_slide_index": 0,
+      "slide_title": "Einführung in die Programmierung Organisation",
+      "similarity_score": 1.0,
+      "changes": [],
+      "note": "Slides are identical, no changes detected"
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 1,
+      "new_slide_index": 1,
+      "slide_title": "Heutige Themen",
+      "similarity_score": 1.0,
+      "changes": [],
+      "note": "Slides are identical, no changes detected"
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 2,
+      "new_slide_index": 2,
+      "slide_title": "Weitere Organisation",
+      "similarity_score": 1.0,
+      "changes": [],
+      "note": "Slides are identical, no changes detected"
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 3,
+      "new_slide_index": 3,
+      "slide_title": "Lernziele",
+      "similarity_score": 1.0,
+      "changes": [],
+      "note": "Slides are identical, no changes detected"
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 4,
+      "new_slide_index": 4,
+      "slide_title": "Lernziele",
+      "similarity_score": 1.0,
+      "changes": [],
+      "note": "Slides are identical, no changes detected"
+    },
+    {
+      "change_type": "modified",
+      "old_slide_index": 5,
+      "new_slide_index": 5,
+      "slide_title": "Lehr- und Lernkonzept",
+      "similarity_score": 0.921,
+      "changes": [
+        {
+          "type": "SUBSTITUTION",
+          "description": "'Vorstellung der Konzepte' → 'Vorstellung der Konzepte & Beispiel-Programme'",
+          "old_text": "Vorstellung der Konzepte",
+          "new_text": "Vorstellung der Konzepte & Beispiel-Programme"
+        },
+        {
+          "type": "DELETION",
+          "description": "Change detected: {'typ': 'DELETION', 'alt': 'Aufgezeichnete Tutorien'}",
+          "old_text": "Aufgezeichnete Tutorien"
+        },
+        {
+          "type": "EINFUEGUNG",
+          "description": "added: 'Tutorium-Videos'",
+          "new_text": "Tutorium-Videos"
+        },
+        {
+          "type": "EINFUEGUNG",
+          "description": "added: 'Tutorien'",
+          "new_text": "Tutorien"
+        },
+        {
+          "type": "DELETION",
+          "description": "Change detected: {'typ': 'DELETION', 'alt': 'Codebeispiele'}",
+          "old_text": "Codebeispiele"
+        },
+        {
+          "type": "EINFUEGUNG",
+          "description": "added: '(Vor-)Besprechung der Hausaufgaben & Codebeispiele'",
+          "new_text": "(Vor-)Besprechung der Hausaufgaben & Codebeispiele"
+        },
+        {
+          "type": "SUBSTITUTION",
+          "description": "'Hilfestellung beim Programmieren, inkl. Fehlersuche, online und in Präsenz' → 'Hilfestellung beim Programmieren, inkl. Fehlersuche, online und in Präsenz (siehe ISIS)'",
+          "old_text": "Hilfestellung beim Programmieren, inkl. Fehlersuche, online und in Präsenz",
+          "new_text": "Hilfestellung beim Programmieren, inkl. Fehlersuche, online und in Präsenz (siehe ISIS)"
+        },
+        {
+          "type": "DELETION",
+          "description": "Change detected: {'typ': 'DELETION', 'alt': 'Siehe ISIS'}",
+          "old_text": "Siehe ISIS"
+        },
+        {
+          "type": "SUBSTITUTION",
+          "description": "'eigenständige Auseinandersetzung mit den Konzepten' → 'eigenständige Auseinandersetzung mit den Konzepten, als Einzelabgaben (wie auf dem jeweiligen Blatt angegeben)'",
+          "old_text": "eigenständige Auseinandersetzung mit den Konzepten",
+          "new_text": "eigenständige Auseinandersetzung mit den Konzepten, als Einzelabgaben (wie auf dem jeweiligen Blatt angegeben)"
+        }
+      ]
+    },
+    {
+      "change_type": "modified",
+      "old_slide_index": 6,
+      "new_slide_index": 6,
+      "slide_title": "Ablauf im Detail",
+      "similarity_score": 0.94,
+      "changes": [
+        {
+          "type": "SUBSTITUTION",
+          "description": "'C-Kurs' → 'Programmierkurs'",
+          "old_text": "C-Kurs",
+          "new_text": "Programmierkurs"
+        },
+        {
+          "type": "DATUM",
+          "description": "17-10-2022 → 14-10-2024",
+          "old_text": "17-10-2022",
+          "new_text": "14-10-2024"
+        },
+        {
+          "type": "DATUM",
+          "description": "30-10-2022 → 25-10-2024",
+          "old_text": "30-10-2022",
+          "new_text": "25-10-2024"
+        }
+      ]
+    },
+    {
+      "change_type": "modified",
+      "old_slide_index": 7,
+      "new_slide_index": 7,
+      "slide_title": "Termine IntroProg",
+      "similarity_score": 0.832,
+      "changes": [
+        {
+          "type": "DATUM",
+          "description": "03.11.2022 → 28.10.2024",
+          "old_text": "03.11.2022",
+          "new_text": "28.10.2024"
+        },
+        {
+          "type": "DATUM",
+          "description": "03.11.2022 → 28.10.2024",
+          "old_text": "03.11.2022",
+          "new_text": "28.10.2024"
+        },
+        {
+          "type": "URL",
+          "description": "https://s.fhg.de/2022-VL-Introprog → https://s.fhg.de/2024-VL-Introprog",
+          "old_text": "https://s.fhg.de/2022-VL-Introprog",
+          "new_text": "https://s.fhg.de/2024-VL-Introprog"
+        },
+        {
+          "type": "SUBSTITUTION",
+          "description": "'HE 101' → 'HE101'",
+          "old_text": "HE 101",
+          "new_text": "HE101"
+        },
+        {
+          "type": "LOESCHUNG",
+          "description": "removed: 'Videos auf ISIS verfügbar'",
+          "old_text": "Videos auf ISIS verfügbar"
+        },
+        {
+          "type": "LOESCHUNG",
+          "description": "removed: 'nach VL'",
+          "old_text": "nach VL"
+        },
+        {
+          "type": "LOESCHUNG",
+          "description": "removed: 'nach VL'",
+          "old_text": "nach VL"
+        }
+      ]
+    },
+    {
+      "change_type": "removed",
+      "old_slide_index": 8,
+      "old_slide_title": "Prüfungsmodalitäten",
+      "old_page_number": 9,
+      "changes": [],
+      "note": "Entire slide was removed"
+    },
+    {
+      "change_type": "modified",
+      "old_slide_index": 9,
+      "new_slide_index": 10,
+      "slide_title": "Abgabe der Programmieraufgaben",
+      "similarity_score": 0.5,
+      "changes": [
+        {
+          "type": "SUBSTITUTION",
+          "description": "'Wie beim C-Kurs mittels Git/Gitlab' → 'Ablauf zum Hochladen: siehe ISIS und Blatt 10 Programmierkurs'",
+          "old_text": "Wie beim C-Kurs mittels Git/Gitlab",
+          "new_text": "Ablauf zum Hochladen: siehe ISIS und Blatt 10 Programmierkurs"
+        },
+        {
+          "type": "SUBSTITUTION",
+          "description": "'Freischaltung Aufgaben:' → 'Freischaltung Aufgaben: Donnerstag, 16:00 Uhr (nach VL)'",
+          "old_text": "Freischaltung Aufgaben:",
+          "new_text": "Freischaltung Aufgaben: Donnerstag, 16:00 Uhr (nach VL)"
+        },
+        {
+          "type": "SUBSTITUTION",
+          "description": "'Achter Werktag nach Veröffentlichung - 08:00 Uhr (morgens)' → 'Freitag drei Wochen nach der Ausgabe des ersten Blattes der Kategorie, 20:00 Uhr'",
+          "old_text": "Achter Werktag nach Veröffentlichung - 08:00 Uhr (morgens)",
+          "new_text": "Freitag drei Wochen nach der Ausgabe des ersten Blattes der Kategorie, 20:00 Uhr"
+        },
+        {
+          "type": "LOESCHUNG",
+          "description": "removed: 'Bsp: Veröffentlichung Do., 03.11. → Abgabe Di., 15.11., 08:00 Uhr'",
+          "old_text": "Bsp: Veröffentlichung Do., 03.11. → Abgabe Di., 15.11., 08:00 Uhr"
+        },
+        {
+          "type": "EINFUEGUNG",
+          "description": "added: 'Programmierkurs (15%)'",
+          "new_text": "Programmierkurs (15%)"
+        },
+        {
+          "type": "EINFUEGUNG",
+          "description": "added: 'Blätter 1-10 des Programmierkurses. Ausgabe: 14-25.10.2024, Abgabe: 15.11.2024'",
+          "new_text": "Blätter 1-10 des Programmierkurses. Ausgabe: 14-25.10.2024, Abgabe: 15.11.2024"
+        },
+        {
+          "type": "EINFUEGUNG",
+          "description": "added: 'Programmieraufgaben (35%)'",
+          "new_text": "Programmieraufgaben (35%)"
+        },
+        {
+          "type": "EINFUEGUNG",
+          "description": "added: 'Kategorie A - Ausgabe: 31.10.2024, Abgabe: 22.11.2024'",
+          "new_text": "Kategorie A - Ausgabe: 31.10.2024, Abgabe: 22.11.2024"
+        },
+        {
+          "type": "EINFUEGUNG",
+          "description": "added: 'Kategorie B - Ausgabe: 21.11.2024, Abgabe: 13.12.2024'",
+          "new_text": "Kategorie B - Ausgabe: 21.11.2024, Abgabe: 13.12.2024"
+        },
+        {
+          "type": "EINFUEGUNG",
+          "description": "added: 'Kategorie C - Ausgabe: 12.12.2024, Abgabe: 17.01.2025'",
+          "new_text": "Kategorie C - Ausgabe: 12.12.2024, Abgabe: 17.01.2025"
+        },
+        {
+          "type": "EINFUEGUNG",
+          "description": "added: 'Kategorie D - Ausgabe: 16.01.2025, Abgabe: 07.02.2025'",
+          "new_text": "Kategorie D - Ausgabe: 16.01.2025, Abgabe: 07.02.2025"
+        }
+      ]
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 10,
+      "new_slide_index": 11,
+      "slide_title": "Einzelabgabe - wichtige Hinweise",
+      "similarity_score": 0.979,
+      "changes": [],
+      "note": "Slides are identical, no changes detected"
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 11,
+      "new_slide_index": 12,
+      "slide_title": "Identische Abgabeteile",
+      "similarity_score": 1.0,
+      "changes": [],
+      "note": "Slides are identical, no changes detected"
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 12,
+      "new_slide_index": 13,
+      "slide_title": "Literatur - Beispiele",
+      "similarity_score": 1.0,
+      "changes": [],
+      "note": "Slides are identical, no changes detected"
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 13,
+      "new_slide_index": 14,
+      "slide_title": "Literaturempfehlung",
+      "similarity_score": 1.0,
+      "changes": [],
+      "note": "Slides are identical, no changes detected"
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 14,
+      "new_slide_index": 15,
+      "slide_title": "Ausblick",
+      "similarity_score": 0.992,
+      "changes": [],
+      "note": "Slides are identical, no changes detected"
+    },
+    {
+      "change_type": "added",
+      "new_slide_index": 8,
+      "new_slide_title": "Lehr- und Lernkonzept",
+      "new_page_number": 9,
+      "changes": [],
+      "note": "Entire slide was added"
+    },
+    {
+      "change_type": "added",
+      "new_slide_index": 9,
+      "new_slide_title": "Anmeldefristen",
+      "new_page_number": 10,
+      "changes": [],
+      "note": "Entire slide was added"
+    }
+  ]
+}

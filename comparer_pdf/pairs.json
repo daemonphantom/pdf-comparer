@@ -1,0 +1,16 @@
+[
+  {
+    "old": "data/course_30422/document/files_pdf/30422_002_01_document.pdf",
+    "new": "data/course_40280/document/files_pdf/40280_001_02_document.pdf",
+    "pair_id": "introprog_orga_v1_v2",
+    "resource_name": "VL01: Organisation",
+    "resource_id": "introprog_orga"
+  },
+  {
+    "old": "data/course_40280/document/files_pdf/40280_001_02_document.pdf",
+    "new": "data/course_43321/document/files_pdf/43321_001_03_document.pdf",
+    "pair_id": "introprog_orga_v2_v3",
+    "resource_name": "VL01: Organisation",
+    "resource_id": "introprog_orga"
+  }
+]

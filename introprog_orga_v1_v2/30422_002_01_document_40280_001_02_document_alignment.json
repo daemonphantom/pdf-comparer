@@ -1,0 +1,1126 @@
+{
+  "comparison_metadata": {
+    "old_slide_count": 15,
+    "new_slide_count": 16,
+    "similarity_threshold": 0.55,
+    "aligned_pairs": 14,
+    "splits": 0,
+    "merges": 0,
+    "insertions": 2,
+    "deletions": 1
+  },
+  "slides": [
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 0,
+      "new_slide_index": 0,
+      "similarity_score": 1.0,
+      "old_slide": {
+        "page_number": 1,
+        "title": "Einführung in die Programmierung Organisation",
+        "content": "",
+        "content_lines": [],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p1",
+          "prev_chunk_id": null,
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p2",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 1,
+        "title": "Einführung in die Programmierung Organisation",
+        "content": "",
+        "content_lines": [],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p1",
+          "prev_chunk_id": null,
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p2",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 1,
+      "new_slide_index": 1,
+      "similarity_score": 1.0,
+      "old_slide": {
+        "page_number": 2,
+        "title": "Heutige Themen",
+        "content": "- Weitere Organisation\n- 1. Vorlesung\n- Motivation: Datenstrukturen und Algorithmen\n- Algorithmen und Pseudo-Code\n- Unser erster Sortieralgorithmus",
+        "content_lines": [
+          "- Weitere Organisation",
+          "- 1. Vorlesung",
+          "- Motivation: Datenstrukturen und Algorithmen",
+          "- Algorithmen und Pseudo-Code",
+          "- Unser erster Sortieralgorithmus"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p2",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p1",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p3",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 2,
+        "title": "Heutige Themen",
+        "content": "- Weitere Organisation\n- 1. Vorlesung\n- Motivation: Datenstrukturen und Algorithmen\n- Algorithmen und Pseudo-Code\n- Unser erster Sortieralgorithmus",
+        "content_lines": [
+          "- Weitere Organisation",
+          "- 1. Vorlesung",
+          "- Motivation: Datenstrukturen und Algorithmen",
+          "- Algorithmen und Pseudo-Code",
+          "- Unser erster Sortieralgorithmus"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p2",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p1",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p3",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 2,
+      "new_slide_index": 2,
+      "similarity_score": 1.0,
+      "old_slide": {
+        "page_number": 3,
+        "title": "Weitere Organisation",
+        "content": "",
+        "content_lines": [],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p3",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p2",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p4",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 3,
+        "title": "Weitere Organisation",
+        "content": "",
+        "content_lines": [],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p3",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p2",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p4",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 3,
+      "new_slide_index": 3,
+      "similarity_score": 1.0,
+      "old_slide": {
+        "page_number": 4,
+        "title": "Lernziele",
+        "content": "- Kenntnisse\n\n- elementarer Datenstrukturen\n- elementarer Such- und Sortierverfahren\n- Fähigkeiten\n- Probleme und Strukturen (wieder) zu erkennen\n- für ein gegebenes Anwendungsproblem die geeignete Datenstruktur zu wählen\n- den Aufwand (Komplexität) eines Algorithmus bzw. eines CProgramms abzuschätzen",
+        "content_lines": [
+          "- Kenntnisse",
+          "- elementarer Datenstrukturen",
+          "- elementarer Such- und Sortierverfahren",
+          "- Fähigkeiten",
+          "- Probleme und Strukturen (wieder) zu erkennen",
+          "- für ein gegebenes Anwendungsproblem die geeignete Datenstruktur zu wählen",
+          "- den Aufwand (Komplexität) eines Algorithmus bzw. eines CProgramms abzuschätzen"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p4",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p3",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p5",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 4,
+        "title": "Lernziele",
+        "content": "- Kenntnisse\n- elementarer Datenstrukturen\n- elementarer Such- und Sortierverfahren\n- Fähigkeiten\n- Probleme und Strukturen (wieder) zu erkennen\n- für ein gegebenes Anwendungsproblem die geeignete Datenstruktur zu wählen\n- den Aufwand (Komplexität) eines Algorithmus bzw. eines CProgramms abzuschätzen",
+        "content_lines": [
+          "- Kenntnisse",
+          "- elementarer Datenstrukturen",
+          "- elementarer Such- und Sortierverfahren",
+          "- Fähigkeiten",
+          "- Probleme und Strukturen (wieder) zu erkennen",
+          "- für ein gegebenes Anwendungsproblem die geeignete Datenstruktur zu wählen",
+          "- den Aufwand (Komplexität) eines Algorithmus bzw. eines CProgramms abzuschätzen"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p4",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p3",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p5",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 4,
+      "new_slide_index": 4,
+      "similarity_score": 1.0,
+      "old_slide": {
+        "page_number": 5,
+        "title": "Lernziele",
+        "content": "- Datenstrukturen\n- Listen\n- Queue, Stack und Heap\n- Bäume\n\n- Elementare Algorithmen\n\n- Suchen\n- Sortieren\n- Algorithmen\n- Aufwandsabschätzung\n- Korrektheit",
+        "content_lines": [
+          "- Datenstrukturen",
+          "- Listen",
+          "- Queue, Stack und Heap",
+          "- Bäume",
+          "- Elementare Algorithmen",
+          "- Suchen",
+          "- Sortieren",
+          "- Algorithmen",
+          "- Aufwandsabschätzung",
+          "- Korrektheit"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p5",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p4",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p6",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 5,
+        "title": "Lernziele",
+        "content": "- Datenstrukturen\n- Listen\n- Queue, Stack und Heap\n- Bäume\n- Elementare Algorithmen\n- Suchen\n- Sortieren\n- Algorithmen\n- Aufwandsabschätzung\n- Korrektheit",
+        "content_lines": [
+          "- Datenstrukturen",
+          "- Listen",
+          "- Queue, Stack und Heap",
+          "- Bäume",
+          "- Elementare Algorithmen",
+          "- Suchen",
+          "- Sortieren",
+          "- Algorithmen",
+          "- Aufwandsabschätzung",
+          "- Korrektheit"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p5",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p4",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p6",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "modified",
+      "old_slide_index": 5,
+      "new_slide_index": 5,
+      "similarity_score": 0.921,
+      "old_slide": {
+        "page_number": 6,
+        "title": "Lehr- und Lernkonzept",
+        "content": "- Vorlesung\n- Vorstellung der Konzepte\n- Beispiel-Programme\n- Aufgezeichnete Tutorien\n- Kleine Videosequenzen zur Erklärung des jeweiligen Themas der Hausaufgaben\n- Codebeispiele\n- Betreute Rechnerzeiten:\n- Hilfestellung beim Programmieren, inkl. Fehlersuche, online und in Präsenz\n- Siehe ISIS\n- Hausaufgaben:\n- eigenständige Auseinandersetzung mit den Konzepten\n- immer als Einzelabgaben (wie auf dem jeweiligen Blatt angegeben)",
+        "content_lines": [
+          "- Vorlesung",
+          "- Vorstellung der Konzepte",
+          "- Beispiel-Programme",
+          "- Aufgezeichnete Tutorien",
+          "- Kleine Videosequenzen zur Erklärung des jeweiligen Themas der Hausaufgaben",
+          "- Codebeispiele",
+          "- Betreute Rechnerzeiten:",
+          "- Hilfestellung beim Programmieren, inkl. Fehlersuche, online und in Präsenz",
+          "- Siehe ISIS",
+          "- Hausaufgaben:",
+          "- eigenständige Auseinandersetzung mit den Konzepten",
+          "- immer als Einzelabgaben (wie auf dem jeweiligen Blatt angegeben)"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p6",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p5",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p7",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 6,
+        "title": "Lehr- und Lernkonzept",
+        "content": "- Vorlesung\n- Vorstellung der Konzepte &amp; Beispiel-Programme\n- Tutorium-Videos\n- Kleine Videosequenzen zur Erklärung des jeweiligen Themas der Hausaufgaben\n- Tutorien\n- (Vor-)Besprechung der Hausaufgaben &amp; Codebeispiele\n- Betreute Rechnerzeiten:\n- Hilfestellung beim Programmieren, inkl. Fehlersuche, online und in Präsenz (siehe ISIS)\n- Hausaufgaben:\n- eigenständige Auseinandersetzung mit den Konzepten, als Einzelabgaben (wie auf dem jeweiligen Blatt angegeben)",
+        "content_lines": [
+          "- Vorlesung",
+          "- Vorstellung der Konzepte &amp; Beispiel-Programme",
+          "- Tutorium-Videos",
+          "- Kleine Videosequenzen zur Erklärung des jeweiligen Themas der Hausaufgaben",
+          "- Tutorien",
+          "- (Vor-)Besprechung der Hausaufgaben &amp; Codebeispiele",
+          "- Betreute Rechnerzeiten:",
+          "- Hilfestellung beim Programmieren, inkl. Fehlersuche, online und in Präsenz (siehe ISIS)",
+          "- Hausaufgaben:",
+          "- eigenständige Auseinandersetzung mit den Konzepten, als Einzelabgaben (wie auf dem jeweiligen Blatt angegeben)"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p6",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p5",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p7",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "modified",
+      "old_slide_index": 6,
+      "new_slide_index": 6,
+      "similarity_score": 0.94,
+      "old_slide": {
+        "page_number": 7,
+        "title": "Ablauf im Detail",
+        "content": "Veranstaltung besteht aus:\n\n1. C-Kurs\n\n- Vorstellung der Konzepte\n- Blockveranstaltung (täglich), 17.10. - 30.10.2022, 12:15 - 13:45 Uhr\n- Folgende Vorlesungen finden in diesen zwei Wochen nicht statt:\n- Rechnerorganisation\n- Informatik Propädeutikum\n\n2. Einführung in die Programmierung (IntroProg):\n\n- Grundlegende Datenstrukturen\n- Algorithmen - am Beispiel von Listen, Bäumen, und Sortieren\n- Dauer: Rest des Semesters",
+        "content_lines": [
+          "Veranstaltung besteht aus:",
+          "1. C-Kurs",
+          "- Vorstellung der Konzepte",
+          "- Blockveranstaltung (täglich), 17.10. - 30.10.2022, 12:15 - 13:45 Uhr",
+          "- Folgende Vorlesungen finden in diesen zwei Wochen nicht statt:",
+          "- Rechnerorganisation",
+          "- Informatik Propädeutikum",
+          "2. Einführung in die Programmierung (IntroProg):",
+          "- Grundlegende Datenstrukturen",
+          "- Algorithmen - am Beispiel von Listen, Bäumen, und Sortieren",
+          "- Dauer: Rest des Semesters"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p7",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p6",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p8",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 7,
+        "title": "Ablauf im Detail",
+        "content": "- Veranstaltung besteht aus:\n\n1. Programmierkurs\n\n- Vorstellung der Konzepte\n- Blockveranstaltung (täglich), 14.10. - 25.10.2024, 12:15 - 13:45 Uhr\n- Folgende Vorlesungen finden in diesen zwei Wochen nicht statt:\n- Rechnerorganisation\n- Informatik Propädeutikum\n\n2. Einführung in die Programmierung (IntroProg):\n\n- Grundlegende Datenstrukturen\n- Algorithmen - am Beispiel von Listen, Bäumen, und Sortieren\n- Dauer: Rest des Semesters",
+        "content_lines": [
+          "- Veranstaltung besteht aus:",
+          "1. Programmierkurs",
+          "- Vorstellung der Konzepte",
+          "- Blockveranstaltung (täglich), 14.10. - 25.10.2024, 12:15 - 13:45 Uhr",
+          "- Folgende Vorlesungen finden in diesen zwei Wochen nicht statt:",
+          "- Rechnerorganisation",
+          "- Informatik Propädeutikum",
+          "2. Einführung in die Programmierung (IntroProg):",
+          "- Grundlegende Datenstrukturen",
+          "- Algorithmen - am Beispiel von Listen, Bäumen, und Sortieren",
+          "- Dauer: Rest des Semesters"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p7",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p6",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p8",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "modified",
+      "old_slide_index": 7,
+      "new_slide_index": 7,
+      "similarity_score": 0.832,
+      "old_slide": {
+        "page_number": 8,
+        "title": "Termine IntroProg",
+        "content": "- Ab dem 03.11.2022 regulärer Vorlesungsbetrieb\n- Vorlesung, Tutorien und Rechnerübungen (wöchentlich)\n- Vorlesung\n- Donnerstags, jeweils 14:15 - 15:45 Uhr, HE 101\n- Zoom: https://s.fhg.de/2022-VL-Introprog\n- Tutorien:\n- Beginn 03.11.2022 nach VL (Termine in ISIS)\n- Zusätzlich Videos auf ISIS verfügbar\n- Rechnerübung:\n- Beginn 03.11.2022 nach VL (Termine in ISIS)",
+        "content_lines": [
+          "- Ab dem 03.11.2022 regulärer Vorlesungsbetrieb",
+          "- Vorlesung, Tutorien und Rechnerübungen (wöchentlich)",
+          "- Vorlesung",
+          "- Donnerstags, jeweils 14:15 - 15:45 Uhr, HE 101",
+          "- Zoom: https://s.fhg.de/2022-VL-Introprog",
+          "- Tutorien:",
+          "- Beginn 03.11.2022 nach VL (Termine in ISIS)",
+          "- Zusätzlich Videos auf ISIS verfügbar",
+          "- Rechnerübung:",
+          "- Beginn 03.11.2022 nach VL (Termine in ISIS)"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p8",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p7",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p9",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [
+            "https://s.fhg.de/2022-VL-Introprog"
+          ],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 8,
+        "title": "Termine IntroProg",
+        "content": "- Ab dem 28.10.2024 regulärer Vorlesungsbetrieb\n- Vorlesung, Tutorien und Rechnerübungen (wöchentlich)\n- Vorlesung\n- Donnerstags, jeweils 14:15 - 15:45 Uhr, HE101\n- Zoom: https://s.fhg.de/2024-VL-Introprog\n- Tutorien:\n- Beginn: 28.10.2024 (Termine in ISIS)\n- Rechnerübung:\n- Beginn 28.10.2024 (Termine in ISIS)",
+        "content_lines": [
+          "- Ab dem 28.10.2024 regulärer Vorlesungsbetrieb",
+          "- Vorlesung, Tutorien und Rechnerübungen (wöchentlich)",
+          "- Vorlesung",
+          "- Donnerstags, jeweils 14:15 - 15:45 Uhr, HE101",
+          "- Zoom: https://s.fhg.de/2024-VL-Introprog",
+          "- Tutorien:",
+          "- Beginn: 28.10.2024 (Termine in ISIS)",
+          "- Rechnerübung:",
+          "- Beginn 28.10.2024 (Termine in ISIS)"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p8",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p7",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p9",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [
+            "https://s.fhg.de/2024-VL-Introprog"
+          ],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "removed",
+      "old_slide_index": 8,
+      "new_slide_index": null,
+      "old_slide": {
+        "page_number": 9,
+        "title": "Prüfungsmodalitäten",
+        "content": "- Schriftliche Prüfung mit Vorleistung\n- IntroProg (Einzel-)Aufgaben\n- Es müssen 14 Aufgaben korrekt gelöst werden, von\n- 13 Programmieraufgaben (alle Tests der Aufgaben auf einem Übungsblatt müssen erfolgreich sein)\n- 4 Theorieaufgaben (eine Theorieaufgabe besteht aus mehreren ISISAktivitäten derselben Kategorie, alle Aufgaben der Kategorie müssen bestanden sein)\n- Klausur:\n\n- Klausur (Ersttermin): 27.2.2023\n\n- Klausur (Zweittermin): 31.3.2023",
+        "content_lines": [
+          "- Schriftliche Prüfung mit Vorleistung",
+          "- IntroProg (Einzel-)Aufgaben",
+          "- Es müssen 14 Aufgaben korrekt gelöst werden, von",
+          "- 13 Programmieraufgaben (alle Tests der Aufgaben auf einem Übungsblatt müssen erfolgreich sein)",
+          "- 4 Theorieaufgaben (eine Theorieaufgabe besteht aus mehreren ISISAktivitäten derselben Kategorie, alle Aufgaben der Kategorie müssen bestanden sein)",
+          "- Klausur:",
+          "- Klausur (Ersttermin): 27.2.2023",
+          "- Klausur (Zweittermin): 31.3.2023"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p9",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p8",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p10",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": null
+    },
+    {
+      "change_type": "modified",
+      "old_slide_index": 9,
+      "new_slide_index": 10,
+      "similarity_score": 0.499,
+      "old_slide": {
+        "page_number": 10,
+        "title": "Abgabe der Programmieraufgaben",
+        "content": "- Wie beim C-Kurs mittels Git/Gitlab\n- Freischaltung Aufgaben:\n- Donnerstag, 16:00 Uhr (nach VL)\n- Deadline für die Abgabe:\n- Achter Werktag nach Veröffentlichung - 08:00 Uhr (morgens)\n- Bsp: Veröffentlichung Do., 03.11.\n- → Abgabe Di., 15.11., 08:00 Uhr",
+        "content_lines": [
+          "- Wie beim C-Kurs mittels Git/Gitlab",
+          "- Freischaltung Aufgaben:",
+          "- Donnerstag, 16:00 Uhr (nach VL)",
+          "- Deadline für die Abgabe:",
+          "- Achter Werktag nach Veröffentlichung - 08:00 Uhr (morgens)",
+          "- Bsp: Veröffentlichung Do., 03.11.",
+          "- → Abgabe Di., 15.11., 08:00 Uhr"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p10",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p9",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p11",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 11,
+        "title": "Abgabe der Programmieraufgaben",
+        "content": "- Ablauf zum Hochladen: siehe ISIS und Blatt 10 Programmierkurs\n- Freischaltung Aufgaben: Donnerstag, 16:00 Uhr (nach VL)\n- Deadline für die Abgabe: Freitag drei Wochen nach der Ausgabe des ersten Blattes der Kategorie, 20:00 Uhr\n- Programmierkurs (15%)\n- Blätter 1-10 des Programmierkurses. Ausgabe: 14-25.10.2024, Abgabe: 15.11.2024\n- Programmieraufgaben (35%)\n- Kategorie A - Ausgabe: 31.10.2024, Abgabe: 22.11.2024\n- Kategorie B - Ausgabe: 21.11.2024, Abgabe: 13.12.2024\n- Kategorie C - Ausgabe: 12.12.2024, Abgabe: 17.01.2025\n- Kategorie D - Ausgabe: 16.01.2025, Abgabe: 07.02.2025",
+        "content_lines": [
+          "- Ablauf zum Hochladen: siehe ISIS und Blatt 10 Programmierkurs",
+          "- Freischaltung Aufgaben: Donnerstag, 16:00 Uhr (nach VL)",
+          "- Deadline für die Abgabe: Freitag drei Wochen nach der Ausgabe des ersten Blattes der Kategorie, 20:00 Uhr",
+          "- Programmierkurs (15%)",
+          "- Blätter 1-10 des Programmierkurses. Ausgabe: 14-25.10.2024, Abgabe: 15.11.2024",
+          "- Programmieraufgaben (35%)",
+          "- Kategorie A - Ausgabe: 31.10.2024, Abgabe: 22.11.2024",
+          "- Kategorie B - Ausgabe: 21.11.2024, Abgabe: 13.12.2024",
+          "- Kategorie C - Ausgabe: 12.12.2024, Abgabe: 17.01.2025",
+          "- Kategorie D - Ausgabe: 16.01.2025, Abgabe: 07.02.2025"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p11",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p10",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p12",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 10,
+      "new_slide_index": 11,
+      "similarity_score": 0.979,
+      "old_slide": {
+        "page_number": 11,
+        "title": "Einzelabgabe - wichtige Hinweise",
+        "content": "Einzelabgabe\n\n- Jede/r Studierende erarbeitet eine eigene Lösung und gibt diese ab!\n- Diskussionen von Lösungswegen, Herangehensweisen und Hilfestellungen sind erlaubt und sogar erwünscht!\n- Aber Weitergabe von Lösungsteilen ist keine Hilfestellung , da das nicht dazu führt, ein eigenes Verständnis der Herangehensweise zu entwickeln !\n\nRegeln\n\n- Zwei identische Abgaben\n-  Eine ist ein Plagiat!\n-  Das ist ein Täuschungsversuch.\n-  Beide Abgaben gelten als nicht bearbeitet , da generell der/die Originalautor/in nicht ermittelbar ist.\n- Wiederholungsfall  Nichtbestehen - wegen Täuschung",
+        "content_lines": [
+          "Einzelabgabe",
+          "- Jede/r Studierende erarbeitet eine eigene Lösung und gibt diese ab!",
+          "- Diskussionen von Lösungswegen, Herangehensweisen und Hilfestellungen sind erlaubt und sogar erwünscht!",
+          "- Aber Weitergabe von Lösungsteilen ist keine Hilfestellung , da das nicht dazu führt, ein eigenes Verständnis der Herangehensweise zu entwickeln !",
+          "Regeln",
+          "- Zwei identische Abgaben",
+          "-  Eine ist ein Plagiat!",
+          "-  Das ist ein Täuschungsversuch.",
+          "-  Beide Abgaben gelten als nicht bearbeitet , da generell der/die Originalautor/in nicht ermittelbar ist.",
+          "- Wiederholungsfall  Nichtbestehen - wegen Täuschung"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p11",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p10",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p12",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 12,
+        "title": "Einzelabgabe - wichtige Hinweise",
+        "content": "- Einzelabgabe\n- Jede/r Studierende erarbeitet eine eigene Lösung und gibt diese ab!\n- Diskussionen von Lösungswegen, Herangehensweisen und Hilfestellungen sind erlaubt und sogar erwünscht!\n- Aber Weitergabe von Lösungsteilen ist keine Hilfestellung , da dies nicht dazu führt, ein eigenes Verständnis zu entwickeln !\n- Regeln\n- Zwei identische Abgaben\n-  Eine ist ein Plagiat!\n-  Das ist ein Täuschungsversuch.\n-  Beide Abgaben gelten als nicht bearbeitet , da generell der/die Originalautor/in nicht ermittelbar ist.\n- Wiederholungsfall  Nichtbestehen - wegen Täuschung",
+        "content_lines": [
+          "- Einzelabgabe",
+          "- Jede/r Studierende erarbeitet eine eigene Lösung und gibt diese ab!",
+          "- Diskussionen von Lösungswegen, Herangehensweisen und Hilfestellungen sind erlaubt und sogar erwünscht!",
+          "- Aber Weitergabe von Lösungsteilen ist keine Hilfestellung , da dies nicht dazu führt, ein eigenes Verständnis zu entwickeln !",
+          "- Regeln",
+          "- Zwei identische Abgaben",
+          "-  Eine ist ein Plagiat!",
+          "-  Das ist ein Täuschungsversuch.",
+          "-  Beide Abgaben gelten als nicht bearbeitet , da generell der/die Originalautor/in nicht ermittelbar ist.",
+          "- Wiederholungsfall  Nichtbestehen - wegen Täuschung"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p12",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p11",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p13",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 11,
+      "new_slide_index": 12,
+      "similarity_score": 1.0,
+      "old_slide": {
+        "page_number": 12,
+        "title": "Identische Abgabeteile",
+        "content": "- Abgaben werden als identisch betrachtet, wenn sie sich, u.a. nur in den\n- Variablennamen\n- Kommentaren\n- Einrückungen unterscheiden.\n\nHinweis: Wir benutzen Plagiatcheckertools! Zusammen mit manueller Überprüfung",
+        "content_lines": [
+          "- Abgaben werden als identisch betrachtet, wenn sie sich, u.a. nur in den",
+          "- Variablennamen",
+          "- Kommentaren",
+          "- Einrückungen unterscheiden.",
+          "Hinweis: Wir benutzen Plagiatcheckertools! Zusammen mit manueller Überprüfung"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p12",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p11",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p13",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 13,
+        "title": "Identische Abgabeteile",
+        "content": "- Abgaben werden als identisch betrachtet, wenn sie sich, u.a. nur in den\n- Variablennamen\n- Kommentaren\n- Einrückungen unterscheiden.\n\nHinweis: Wir benutzen Plagiatcheckertools! Zusammen mit manueller Überprüfung",
+        "content_lines": [
+          "- Abgaben werden als identisch betrachtet, wenn sie sich, u.a. nur in den",
+          "- Variablennamen",
+          "- Kommentaren",
+          "- Einrückungen unterscheiden.",
+          "Hinweis: Wir benutzen Plagiatcheckertools! Zusammen mit manueller Überprüfung"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p13",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p12",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p14",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 12,
+      "new_slide_index": 13,
+      "similarity_score": 1.0,
+      "old_slide": {
+        "page_number": 13,
+        "title": "Literatur - Beispiele",
+        "content": "- C\n\n- Kernighan, Programmieren in C, 1990\n\n- Algorithmen und Datenstrukturen\n\n- Cormen, T.H.; Leiserson, C.E.; Rivest, R.L.; Stein, C.: Introduction to Algorithms, 3. Aufl. MIT Press Cambridge, 2009\n- Sedgewick, R.: Algorithms in C,  Addison-Wesley, 2005\n- Goodrich, M. Tamassia, R.: Data Structures and Algorithms in C++, John Wiley\n\n- Systemsoftware\n\n- Randal E. Bryant, David R. O'Hallaron 'Computer Systems: A Programmer's Perspective', Prentice Hall",
+        "content_lines": [
+          "- C",
+          "- Kernighan, Programmieren in C, 1990",
+          "- Algorithmen und Datenstrukturen",
+          "- Cormen, T.H.; Leiserson, C.E.; Rivest, R.L.; Stein, C.: Introduction to Algorithms, 3. Aufl. MIT Press Cambridge, 2009",
+          "- Sedgewick, R.: Algorithms in C, Addison-Wesley, 2005",
+          "- Goodrich, M. Tamassia, R.: Data Structures and Algorithms in C++, John Wiley",
+          "- Systemsoftware",
+          "- Randal E. Bryant, David R. O'Hallaron 'Computer Systems: A Programmer's Perspective', Prentice Hall"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p13",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p12",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p14",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 14,
+        "title": "Literatur - Beispiele",
+        "content": "- C\n- Kernighan, Programmieren in C, 1990\n\n- Algorithmen und Datenstrukturen\n\n- Cormen, T.H.; Leiserson, C.E.; Rivest, R.L.; Stein, C.: Introduction to Algorithms, 3. Aufl. MIT Press Cambridge, 2009\n- Sedgewick, R.: Algorithms in C, Addison-Wesley, 2005\n- Goodrich, M. Tamassia, R.: Data Structures and Algorithms in C++, John Wiley\n\n- Systemsoftware\n\n- Randal E. Bryant, David R. O'Hallaron 'Computer Systems: A Programmer's Perspective', Prentice Hall",
+        "content_lines": [
+          "- C",
+          "- Kernighan, Programmieren in C, 1990",
+          "- Algorithmen und Datenstrukturen",
+          "- Cormen, T.H.; Leiserson, C.E.; Rivest, R.L.; Stein, C.: Introduction to Algorithms, 3. Aufl. MIT Press Cambridge, 2009",
+          "- Sedgewick, R.: Algorithms in C, Addison-Wesley, 2005",
+          "- Goodrich, M. Tamassia, R.: Data Structures and Algorithms in C++, John Wiley",
+          "- Systemsoftware",
+          "- Randal E. Bryant, David R. O'Hallaron 'Computer Systems: A Programmer's Perspective', Prentice Hall"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p14",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p13",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p15",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 13,
+      "new_slide_index": 14,
+      "similarity_score": 1.0,
+      "old_slide": {
+        "page_number": 14,
+        "title": "Literaturempfehlung",
+        "content": "- Modern C, J. Gustedt\n- https://gustedt.gitlabpages.inria.fr/modern-c/\n- Beej's Guide to C Programming, Brian 'Beej' Hall\n- http://beej.us/guide/bgc/",
+        "content_lines": [
+          "- Modern C, J. Gustedt",
+          "- https://gustedt.gitlabpages.inria.fr/modern-c/",
+          "- Beej's Guide to C Programming, Brian 'Beej' Hall",
+          "- http://beej.us/guide/bgc/"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p14",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p13",
+          "next_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p15",
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [
+            "https://gustedt.gitlabpages.inria.fr/modern-c/",
+            "http://beej.us/guide/bgc/"
+          ],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 15,
+        "title": "Literaturempfehlung",
+        "content": "- Modern C, J. Gustedt\n- https://gustedt.gitlabpages.inria.fr/modern-c/\n- Beej's Guide to C Programming, Brian 'Beej' Hall\n- http://beej.us/guide/bgc/",
+        "content_lines": [
+          "- Modern C, J. Gustedt",
+          "- https://gustedt.gitlabpages.inria.fr/modern-c/",
+          "- Beej's Guide to C Programming, Brian 'Beej' Hall",
+          "- http://beej.us/guide/bgc/"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p15",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p14",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p16",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [
+            "https://gustedt.gitlabpages.inria.fr/modern-c/",
+            "http://beej.us/guide/bgc/"
+          ],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "unchanged",
+      "old_slide_index": 14,
+      "new_slide_index": 15,
+      "similarity_score": 0.992,
+      "old_slide": {
+        "page_number": 15,
+        "title": "Ausblick",
+        "content": "VL 0   'Organisation und Inhalt': Ablauf der Vorlesung, Termine\n\n- VL 1   'Algorithmen, Pseudocode, Sortieren I': Insertion Sort\n- VL 2   'Algorithmen, Pseudocode, Sortieren II': Selection Sort, Bubble Sort, Count Sort\n- VL 3   'Laufzeit und Speicherplatz': Laufzeitanalyse der vorgestellten Sortierverfahren\n- VL 4   'Einfache Datenstrukturen': Arrays, verkettete Listen, Structs in C, Stack, Queue\n- VL 5   'Bäume': Binärbäume, Baumtraversierung, Laufzeitanalyse Baumoperationen\n- VL 6   'Dateien in C': Dateien, Dateisysteme, Verzeichnisse, Dateiverwaltung mit C\n- VL 7   'Teile und Herrsche I': Einführung der algorithmischen Methode, Merge Sort\n- VL 8   'Korrektheitsbeweise': Rechnermodel, Beispielbeweise\n- VL 9   'Prioritätenschlangen/Halden/Heaps ': Heap Sort, Binärer Heap, Heap Operationen\n- VL 10 'Fortgeschrittene Sortierverfahren': Quick Sort, Radix Sort\n- VL 11 'AVL Bäume': Definition, Baumoperationen, Traversierung\n- VL 12 'Teile und Herrsche II': Generalisierung des algorithmischen Prinzips, Mastertheorem VL 13 'Q &amp; A': Offene Vorlesung/Wiederholung",
+        "content_lines": [
+          "VL 0 'Organisation und Inhalt': Ablauf der Vorlesung, Termine",
+          "- VL 1 'Algorithmen, Pseudocode, Sortieren I': Insertion Sort",
+          "- VL 2 'Algorithmen, Pseudocode, Sortieren II': Selection Sort, Bubble Sort, Count Sort",
+          "- VL 3 'Laufzeit und Speicherplatz': Laufzeitanalyse der vorgestellten Sortierverfahren",
+          "- VL 4 'Einfache Datenstrukturen': Arrays, verkettete Listen, Structs in C, Stack, Queue",
+          "- VL 5 'Bäume': Binärbäume, Baumtraversierung, Laufzeitanalyse Baumoperationen",
+          "- VL 6 'Dateien in C': Dateien, Dateisysteme, Verzeichnisse, Dateiverwaltung mit C",
+          "- VL 7 'Teile und Herrsche I': Einführung der algorithmischen Methode, Merge Sort",
+          "- VL 8 'Korrektheitsbeweise': Rechnermodel, Beispielbeweise",
+          "- VL 9 'Prioritätenschlangen/Halden/Heaps ': Heap Sort, Binärer Heap, Heap Operationen",
+          "- VL 10 'Fortgeschrittene Sortierverfahren': Quick Sort, Radix Sort",
+          "- VL 11 'AVL Bäume': Definition, Baumoperationen, Traversierung",
+          "- VL 12 'Teile und Herrsche II': Generalisierung des algorithmischen Prinzips, Mastertheorem VL 13 'Q &amp; A': Offene Vorlesung/Wiederholung"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "30422",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2022/23",
+          "chunk_type": "pdf_page",
+          "document_file": "30422_002_01_document.pdf",
+          "document_title": "VL: Organisation Datei",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/2347778/mod_resource/content/20/introprog-v01_orga.pdf",
+          "moodle_url": "https://isis.tu-berlin.de/mod/resource/view.php?id=1411684",
+          "chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p15",
+          "prev_chunk_id": "d3354a505bfb3a36e5e7dce3ea7681f2-p14",
+          "next_chunk_id": null,
+          "ingest_ts": "2025-10-19T15:28:24.246934+00:00",
+          "urls": [],
+          "tables": []
+        }
+      },
+      "new_slide": {
+        "page_number": 16,
+        "title": "Ausblick",
+        "content": "VL 0 'Organisation und Inhalt\": Ablauf der Vorlesung, Termine\n\n- VL 1 'Algorithmen, Pseudocode, Sortieren |': Insertion Sort\n- VL 2 'Algorithmen, Pseudocode, Sortieren II': Selection Sort, Bubble Sort, Count Sort\n- VL 3 'Laufzeit und Speicherplatz': Laufzeitanalyse der vorgestellten Sortierverfahren\n- VL4 'Einfache Datenstrukturen': Arrays, verkettete Listen, Structs in C, Stack, Queue\n- VL 5 'Bäume': Binärbäume, Baumtraversierung, Laufzeitanalyse Baumoperationen\n- VL 6 'Dateien in C': Dateien, Dateisysteme, Verzeichnisse, Dateiverwaltung mit C\n\nVL 7 'Teile und Herrsche |': Einführung der algorithmischen Methode, Merge Sort\n\n- VL 8 'Korrektheitsbeweise': Rechnermodel, Beispielbeweise\n- VL 9 'Prioritätenschlangen/Halden/Heaps'; Heap Sort, Binärer Heap, Heap Operationen\n- VL 10 'Fortgeschrittene Sortierverfahren': Quick Sort, Radix Sort\n- VL 11 'AVL Bäume': Definition, Baumoperationen, Traversierung\n- VL 12 'Teile und Herrsche I|': Generalisierung des algorithmischen Prinzips, Mastertheorem VL 13 'Q &amp; A': Offene Vorlesung/Wiederholung",
+        "content_lines": [
+          "VL 0 'Organisation und Inhalt\": Ablauf der Vorlesung, Termine",
+          "- VL 1 'Algorithmen, Pseudocode, Sortieren |': Insertion Sort",
+          "- VL 2 'Algorithmen, Pseudocode, Sortieren II': Selection Sort, Bubble Sort, Count Sort",
+          "- VL 3 'Laufzeit und Speicherplatz': Laufzeitanalyse der vorgestellten Sortierverfahren",
+          "- VL4 'Einfache Datenstrukturen': Arrays, verkettete Listen, Structs in C, Stack, Queue",
+          "- VL 5 'Bäume': Binärbäume, Baumtraversierung, Laufzeitanalyse Baumoperationen",
+          "- VL 6 'Dateien in C': Dateien, Dateisysteme, Verzeichnisse, Dateiverwaltung mit C",
+          "VL 7 'Teile und Herrsche |': Einführung der algorithmischen Methode, Merge Sort",
+          "- VL 8 'Korrektheitsbeweise': Rechnermodel, Beispielbeweise",
+          "- VL 9 'Prioritätenschlangen/Halden/Heaps'; Heap Sort, Binärer Heap, Heap Operationen",
+          "- VL 10 'Fortgeschrittene Sortierverfahren': Quick Sort, Radix Sort",
+          "- VL 11 'AVL Bäume': Definition, Baumoperationen, Traversierung",
+          "- VL 12 'Teile und Herrsche I|': Generalisierung des algorithmischen Prinzips, Mastertheorem VL 13 'Q &amp; A': Offene Vorlesung/Wiederholung"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p16",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p15",
+          "next_chunk_id": null,
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "added",
+      "old_slide_index": null,
+      "new_slide_index": 8,
+      "old_slide": null,
+      "new_slide": {
+        "page_number": 9,
+        "title": "Lehr- und Lernkonzept",
+        "content": "Leistungen der Portfolioprüfung\n\n- Hausaufgaben im Programmierkurs (Programmierung)\n- eigenständige Auseinandersetzung mit den Konzepten\n- 15% der Gesamtnote\n- Hausaufgaben während des Semesters (Programmierung und Theorie)\n- eigenständige Auseinandersetzung mit den Konzepten\n- 35% der Gesamtnote\n- Klausur am Semesterende (60min)\n- 50% der Gesamtnote",
+        "content_lines": [
+          "Leistungen der Portfolioprüfung",
+          "- Hausaufgaben im Programmierkurs (Programmierung)",
+          "- eigenständige Auseinandersetzung mit den Konzepten",
+          "- 15% der Gesamtnote",
+          "- Hausaufgaben während des Semesters (Programmierung und Theorie)",
+          "- eigenständige Auseinandersetzung mit den Konzepten",
+          "- 35% der Gesamtnote",
+          "- Klausur am Semesterende (60min)",
+          "- 50% der Gesamtnote"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p9",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p8",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p10",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    },
+    {
+      "change_type": "added",
+      "old_slide_index": null,
+      "new_slide_index": 9,
+      "old_slide": null,
+      "new_slide": {
+        "page_number": 10,
+        "title": "Anmeldefristen",
+        "content": "- ISIS für Vorlesungsmaterial am besten sofort\n- Modulanmeldefrist via Moses oder Prüfungsamt\n- Portfolioprüfung\n- Anmeldung &amp; Abmeldung ab 14.10.2024 und bis 08.11.2024\n- Empfehlung: Wählen Sie den ersten Termin am 28.02.2025\n- Test: 28.02.2025 10:30 - 13:00 Uhr\n- Wiederholungsmöglichkeit: 27.03.2025 07:30 - 10:00 Uhr\n- Beachten Sie die Ankündigungen in ISIS !",
+        "content_lines": [
+          "- ISIS für Vorlesungsmaterial am besten sofort",
+          "- Modulanmeldefrist via Moses oder Prüfungsamt",
+          "- Portfolioprüfung",
+          "- Anmeldung &amp; Abmeldung ab 14.10.2024 und bis 08.11.2024",
+          "- Empfehlung: Wählen Sie den ersten Termin am 28.02.2025",
+          "- Test: 28.02.2025 10:30 - 13:00 Uhr",
+          "- Wiederholungsmöglichkeit: 27.03.2025 07:30 - 10:00 Uhr",
+          "- Beachten Sie die Ankündigungen in ISIS !"
+        ],
+        "metadata": {
+          "node_type": "DocVersion",
+          "source": "pdf",
+          "course_id": "40280",
+          "course_name": "Einführung in die Programmierung",
+          "course_semester": "WiSe 2024/25",
+          "chunk_type": "pdf_page",
+          "document_file": "40280_001_02_document.pdf",
+          "document_title": "introprog-v01_orga.pdf",
+          "document_url": "https://isis.tu-berlin.de/pluginfile.php/3401305/mod_folder/content/0/introprog-v01_orga.pdf?forcedownload=1",
+          "moodle_url": "https://isis.tu-berlin.de/mod/folder/view.php?id=1942179",
+          "chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p10",
+          "prev_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p9",
+          "next_chunk_id": "974b48fd3f5bbaf208a4933888b37d02-p11",
+          "ingest_ts": "2025-10-19T15:28:20.952784+00:00",
+          "urls": [],
+          "tables": []
+        }
+      }
+    }
+  ]
+}
